@@ -1,0 +1,10 @@
+*~
+.DS_Store
+.svn
+.cvs
+*.bak
+*.swp
+Thumbs.db
+wp-config.php
+
+*.sublime-*
