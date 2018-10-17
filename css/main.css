@@ -16,9 +16,6 @@
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-marquee {
-	display:inline;
-}
 
 html {
 	padding: 0;
