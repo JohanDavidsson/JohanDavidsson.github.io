@@ -58,6 +58,11 @@ h1, .description {
 	margin-top: 20px;
 }
 
+.brollopssida a {
+	color: #c3c3c3;
+	text-decoration: none;
+}
+
 .mail {
 	margin-top: 5px;
 	margin-left: 3px;
